@@ -1,0 +1,50 @@
+body{
+    background-image: url('https://i.postimg.cc/hjyfXYtt/4562472.jpg');
+    /* background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%; */
+
+}
+.game{
+    font-family: "Times New Roman";
+    font-size: 55px;
+    color: rgb(254, 229, 6);
+    text-align: center; 
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.subgameimg img{
+  width: 500px;
+  border-radius: 15px;
+  height: 350px;
+}
+.subgame{
+    display: flex;
+    margin: 15px;
+}
+.subgame div {
+    margin: 20px;
+
+}
+.subgamepara {
+    font-family: "Times New Roman";
+    font-size: 20px;
+    color: aliceblue;
+    
+}
+.subgameparatop{
+    font-family: "Times New Roman";
+    font-size: 35px;
+    color: rgb(27, 233, 113);
+}
+.footer{
+    font-family: "Times New Roman";
+    font-size: 35px;
+    color: rgb(225, 232, 9);
+    /* background-color: antiquewhite;
+
+    height: 200px; */
+    text-align: center;
+}
